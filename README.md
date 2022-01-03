@@ -7,39 +7,35 @@
 <p align="center">
   <a href="https://www.python.org/downloads/">
     <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Red-Discordbot">
-
-  </a>
-  <a href="https://github.com/Rapptz/discord.py/">
-     <img src="https://img.shields.io/badge/discord-py-blue.svg" alt="discord.py">
-  </a>
-  <a href="https://discord.com/">
-     <img src="https://img.shields.io/discord/603566154153328650" alt="discord channel">
   </a>
 </p>
 
-一個基於資料截取、網路架構、任務排程，架設於雲端伺服器的DISCORD生活訊息機器人
+一個線上實時模擬TWSE(台灣證交所)交易的APP   
 
-## 主要功能
+## 概述
 
-- 每三小時提供新聞關鍵字
-- 第一時間提供氣象局地震報告資訊
-- 每小時更新天氣警特報資訊
-- 與朋友的玩物 - 指令抽圖 :)
-- 普通功能：CPC油價、小遊戲、好友呼叫...等
-- 有些過時，如：奧林匹克排行...等
+- 為了提供無風險且方便的股市策略模擬，因此建造這個APP。
+- 投資新手可以先用股票交易模擬APP來進行練習，讓自己熟悉操作和股票投資策略的模擬，減少真實情況上的失誤。
+- 整個專案分成前後兩端，  
+後臺系統使用python撰寫，由replit.com架設於雲端；  
+前端由Android Studio 使用JAVA撰寫而成。  
+此頁面主要提供後臺程式碼，若要查看前端使用者([請點擊這裡](https://github.com/rong6636/TradingApp_User))
 
-隨需求增加，機器人會不斷增加功能。
+## 架構圖
+
+隨需求增加，可以不斷增加功能。
 
 
-## 新聞關鍵字
+## 伺服器端
 
 
-## 還有很多很多！
+
+## 使用者端
 -
 -
 
 
-## 為了機器人所使用的服務
+## 為了APP所使用的服務
 - 雲端架設：[![replit](https://camo.githubusercontent.com/5456d62b1dc41ed0e630a0394b751a21439fcb37236fb2afcf871c1385c11d5f/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f616d6972313232362f5265706c742e69742d636f6469676f73)](https://replit.com/)
 - 資料回朔問題備份：[jsonstorage](https://app.jsonstorage.net/)
 
