@@ -32,25 +32,28 @@
 ## 使用者端
 
 - APP主頁面  
-<img src="https://user-images.githubusercontent.com/61511627/147968066-76945fe9-5a8c-4ec8-8853-2eeae0318020.jpg" width=400px>
+<img src="https://user-images.githubusercontent.com/61511627/147968066-76945fe9-5a8c-4ec8-8853-2eeae0318020.jpg" width=350px>
 
 - 下單介面  
-<img src="https://user-images.githubusercontent.com/61511627/147968070-34ee20f8-4c97-499f-a795-267d19895336.jpg" width=400px>
+<img src="https://user-images.githubusercontent.com/61511627/147968070-34ee20f8-4c97-499f-a795-267d19895336.jpg" width=350px>
+
+- 委託單介面   
+<img src="https://user-images.githubusercontent.com/61511627/147971710-8e896e32-31a5-46e6-ba6f-257216b5fb23.jpg" width=350px>
 
 - 委託單明細  
-<img src="https://user-images.githubusercontent.com/61511627/147968067-203d693d-84e6-49e6-8951-fe926c8dbfe1.jpg" width=400px>
+<img src="https://user-images.githubusercontent.com/61511627/147968067-203d693d-84e6-49e6-8951-fe926c8dbfe1.jpg" width=350px>
 
 - 商品庫存介面  
-<img src="https://user-images.githubusercontent.com/61511627/147968075-f8209fe8-69e1-48a3-9821-198d76e81ec1.jpg" width=400px>
+<img src="https://user-images.githubusercontent.com/61511627/147968075-f8209fe8-69e1-48a3-9821-198d76e81ec1.jpg" width=350px>
 
 - 資金帳戶資訊  
-<img src="https://user-images.githubusercontent.com/61511627/147968071-8e90117a-5199-4201-8d55-c818ebe5862d.jpg" width=400px>
+<img src="https://user-images.githubusercontent.com/61511627/147968071-8e90117a-5199-4201-8d55-c818ebe5862d.jpg" width=350px>
 
 - 聊天室  
-<img src="https://user-images.githubusercontent.com/61511627/147968073-602cdc15-42c9-4053-9474-71aca0be2e94.jpg" width=400px>
+<img src="https://user-images.githubusercontent.com/61511627/147968073-602cdc15-42c9-4053-9474-71aca0be2e94.jpg" width=350px>
 
 - 使用者帳號中心  
-<img src="https://user-images.githubusercontent.com/61511627/147968062-3eab45ac-e494-43d0-94f9-7698a2d93ec9.jpg" width=400px>
+<img src="https://user-images.githubusercontent.com/61511627/147968062-3eab45ac-e494-43d0-94f9-7698a2d93ec9.jpg" width=350px>
 
 
 ## 為了APP所使用的服務
