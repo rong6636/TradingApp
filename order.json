@@ -1,0 +1,46 @@
+{
+    "___id___":{
+        "state:":"委 成 刪 退",
+        "time": "2021-07-27 1239",
+        "type": "買賣多空",
+        "ticker":"tse_2330",
+        "price": 0,
+        "lots": 0,
+        "new_lots": 0,
+        "cover_lots": 0,
+        "margin": 184000,
+        "p_v": {"12.34":5},
+        "income":0,
+        "detail":{
+            "2021-08-01 19:37:30:015":"11111"
+        },
+        "extra":""
+    },
+    "twFutures":{
+        "order id": {
+            "state:":"委 成 刪 退",
+            "time": "2118",
+            "type": "買賣多空",
+            "name": "\u5927\u53f0\u6307\u8fd1\u4e00",
+            "ticker": "\u5927\u53f0\u6307\u8fd1\u4e00",
+            "price": 17500.0,
+            "lots": 1,
+            "new_lots": 0,
+            "cover_lots": 0,
+            "margin": 184000,
+            "p_v": {
+                "17490.0": 1
+            },
+            "income": 1867,
+            "detail": {
+                "2021-08-05 18:32:46.000568": "\u5e73\u5009 \u50f9\uff1a17490.0, \u91cf\uff1a1"
+            },
+            "extra": ""
+        }
+
+    },
+    "twStocks":{
+
+    }
+
+}

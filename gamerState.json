@@ -1,0 +1,20 @@
+{
+    "Version": "0.1.3",
+    "Gamer": {
+        "Password": "12345678",
+        "Name": "New_Person",
+        "Title": ["初入武林"],
+        "nowTitle": "初入武林",
+        "Avatar": ["a0"],
+        "nowAvatar": "a0",
+        "SigninTimes" : 0,
+        "lastSinginTime" : "",
+        "Cash" : 1000000,
+        "realizedProfit" : 0,
+        "twStocks" : {},
+        "twFutures" : {},
+        "detail":{
+            
+        }
+    }
+}
